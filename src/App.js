@@ -10,7 +10,7 @@ class App extends Component {
         <img src={sunil} height="200px" width="250px" alt=""/>
           <p>
             This is Sunil Kumar Thing.
-            I am creating my first react App. I am working in america at home.
+            I am creating my first react App. I am working in america at home. I am working in dev.
           </p>
           <a
             className="App-link"
